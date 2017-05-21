@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Menu">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_preamble"
+                    android:icon="@drawable/about"
+                    android:title="@string/preamble" />
+                <item
+                    android:id="@+id/nav_profile"
+                    android:enabled="true"
+                    android:icon="@drawable/profile"
+                    android:title="@string/profile" />
+                <item
+                    android:id="@+id/nav_career"
+                    android:enabled="true"
+                    android:icon="@drawable/career"
+                    android:title="@string/career" />
+                <item
+                    android:id="@+id/nav_video"
+                    android:enabled="true"
+                    android:title="@string/video" />
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/contact"
+                    android:title="@string/contact" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="@string/signout"
+                    android:visible="true" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Pengaturan">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_languages"
+                    android:icon="@drawable/languages"
+                    android:title="@string/language" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

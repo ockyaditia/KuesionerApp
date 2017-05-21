@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Karirku</string>
+    <string name="preamble">Mukadimah</string>
+    <string name="profile">Profil Pengguna</string>
+    <string name="career">Kuesioner Orientasi Karir</string>
+    <string name="video">Video</string>
+    <string name="contact">Kontak</string>
+    <string name="language">Bahasa</string>
+    <string name="signin_signup">Masuk / Daftar</string>
+    <string name="signin">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="signout">Keluar</string>
+    <string name="email_username">Email / Nama User</string>
+    <string name="email">Email</string>
+    <string name="username">Nama User</string>
+    <string name="password">Kata Sandi</string>
+    <string name="confirm_password">Ulangi Kata Sandi</string>
+    <string name="login_desc">Belum Memiliki Akun |&#160;</string>
+    <string name="register_desc">Sudah Memiliki Akun |&#160;</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_signout">Sign Out</string>
+</resources>
